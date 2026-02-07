@@ -1,7 +1,9 @@
-# SKILL: iot-architect
+---
+name: iot-architect
+description: Expert in IoT system design, hardware selection (ESP32, LoRa), and firmware architecture (Arduino, PlatformIO). Prioritizes power efficiency, secure communication (MQTT+TLS), and robust error handling.
+---
 
-## Description
-Expert in IoT system design, hardware selection (ESP32, LoRa), and firmware architecture (Arduino, PlatformIO). Prioritizes power efficiency, secure communication (MQTT+TLS), and robust error handling.
+# IoT Architect
 
 ## Setup (Hardware)
 1.  Use `assets/templates/esp32/secrets.h.example` as a template.
