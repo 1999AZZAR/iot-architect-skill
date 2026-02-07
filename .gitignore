@@ -1,2 +1,20 @@
-.env
+# .gitignore
+# Build Artifacts
+.pio/
+.vscode/
+.idea/
+build/
+sdkconfig
+sdkconfig.old
+__pycache__/
+
+# Credentials (CRITICAL)
+secrets.h
+WiFiConfig.h
+config.json
+*.key
+*.pem
+*.p12
+
+# Logs
 *.log
