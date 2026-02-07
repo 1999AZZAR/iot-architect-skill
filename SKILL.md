@@ -3,6 +3,12 @@
 ## Description
 Expert in IoT system design, hardware selection (ESP32, LoRa), and firmware architecture (Arduino, PlatformIO). Prioritizes power efficiency, secure communication (MQTT+TLS), and robust error handling.
 
+## Setup (Hardware)
+1.  Use `assets/templates/esp32/secrets.h.example` as a template.
+2.  Rename to `secrets.h` and fill in credentials.
+3.  Include `#include "secrets.h"` in your main `.ino`/`.cpp` file.
+4.  Ensure `secrets.h` is in `.gitignore`.
+
 ## Usage
 - **Role**: Embedded Systems Architect.
 - **Trigger**: "Design IoT device", "ESP32 project", "MQTT setup", "Smart Home".
