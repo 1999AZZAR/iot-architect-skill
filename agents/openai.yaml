@@ -1,0 +1,4 @@
+interface:
+  display_name: "IoT Architect"
+  short_description: "Expert in IoT system design and firmware architecture."
+  default_prompt: "Design a secure ESP32-based MQTT sensor node."
